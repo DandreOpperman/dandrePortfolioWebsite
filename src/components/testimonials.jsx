@@ -1,6 +1,6 @@
 import React from "react";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/24/solid";
-import { testimonials } from "../data";
+import { testimonials } from "../utils/data";
 
 export default function Testimonials() {
   return (

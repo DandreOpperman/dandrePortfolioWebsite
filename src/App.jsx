@@ -1,12 +1,11 @@
 import React from "react";
 import "./index.css";
 import About from "./components/About";
-import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
-
-import Testimonials from "./components/Testimonials";
-import Skills from "./components/skills";
+// import Testimonials from "./components/Testimonials";
+// import Skills from "./components/skills";
+import Contact from "./components/contact";
 
 function App() {
   return (
@@ -14,8 +13,8 @@ function App() {
       <Navbar />
       <About />
       <Projects />
-      <Skills />
-      <Testimonials />
+      {/* <Skills /> */}
+      {/* <Testimonials /> */}
       <Contact />
     </main>
   );
