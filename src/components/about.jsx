@@ -9,22 +9,33 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a highly enthusiastic, energetic and creative individual, with
+            a passion for learning looking to kick start my career in software
+            development. Recently, I made the change from healthcare to tech,
+            completing a software development bootcamp. Learning the
+            fundamentals of full stack web development has only increased my
+            passion for technology.
+            <br />
+            <br />
+            Having worked full time whilst studying my A-Levels, including
+            working abroad for years, and months of triple 12-hour night shifts,
+            I can say confidently that I enjoy working hard and studying hard.
+            If you are looking to hire someone who not only works hard, thrives
+            under pressure, and is highly adaptable but also has exceptional
+            interpersonal skills, I believe I would be an ideal candidate.
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
-              Work With Me
+              Hire Me
             </a>
             <a
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              See My Past Work
+              View my Projects
             </a>
           </div>
         </div>
