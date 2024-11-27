@@ -27,7 +27,7 @@ export default function Navbar() {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="public/GitHub_logo.png"
+              src="./GitHub_logo.png"
             ></img>
           </a>
           <a
@@ -37,7 +37,7 @@ export default function Navbar() {
             <img
               className="object-cover object-center rounded"
               alt="hero"
-              src="public/LinkedIn_logo.png"
+              src="./LinkedIn_logo.png"
             ></img>
           </a>
         </nav>
