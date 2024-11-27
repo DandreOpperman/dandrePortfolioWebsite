@@ -70,7 +70,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            If you have any Job opportunities or want to collaborate on a
+            If you have any job opportunities or want to collaborate on a
             project, please message me here! Although I live in Broadstairs, I
             am willing to relocate for the right opportunity.
           </p>
