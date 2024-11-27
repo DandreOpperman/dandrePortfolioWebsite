@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Backend",
     description:
       "The purpose of this API is accessing application data programmatically, which provides information to the front-end architecture of the next project NC-NEWS. Parameterized queries were used to avoid SQL injection attacks. This project was created using: Javascript, Documentation, Test-driven development (TDD), Jest, Supertest, Express, Model view controller (MVC), PostgreSQL, Fs/promises, Hosting using supabase for the database and render for the API",
-    image: "dist/News-API.png",
+    image: "public/News-API.png",
     link: "https://news-api-ovyc.onrender.com/",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "frontend",
     description:
       "This project is a social news aggregation, web content rating, and discussion website. It allows users to view articles, read comments, vote on articles and post new comments. This project used the following skills and technologies: JavaScript, React.js, React Routers, State, HTML, CSS, Axios, Error-Handling, Vite, Conditional Rendering, Hosting, Responsive Design ",
-    image: "dist/NC-News.png",
+    image: "public/NC-News.png",
     link: "https://reedbarger.com",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "backend",
     description:
       "This API builds on the knowledge of the previous News API, with more reference tables and relational data in PostgreSQL, and significantly more endpoints and tests. This project was created using: Javascript, Documentation, Test-driven development (TDD), Jest, Supertest, Express, Model view controller (MVC), PostgreSQL, Fs/promises, Hosting using supabase for the database and render for the API",
-    image: "dist/smartMoneyApi.png",
+    image: "public/smartMoneyApi.png",
     link: "https://smart-money-backend.onrender.com/api",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "frontend",
     description:
       "This app allows users to set financial goals, track spending (both monthly and daily), see that spending visualised graphically and make financial decisions accordingly. Importantly this group project was coded in Flutter in the DART coding language. Our team decided that the two-week project phase would be an opportunity to showcase our ability to learn new technologies fast, use documentation to overcome obstacles and execute aesthetically pleasing and technically robust full-stack coding projects. For a demo and explanation of the application please watch this video https://youtu.be/zg74qv8YIL0. This project was created using: Dart, Flutter, Documentation, Trello, Figma and Agile methodology",
-    image: "dist/SmartMoneyApp.png",
+    image: "public/SmartMoneyApp.png",
     link: "https://smartmoney1234.netlify.app/",
   },
 ];

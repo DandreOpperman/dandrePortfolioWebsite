@@ -1,8 +1,4 @@
-import {
-  CpuChipIcon,
-  ArrowRightIcon,
-  CheckIcon,
-} from "@heroicons/react/24/solid";
+import { CpuChipIcon, CheckIcon } from "@heroicons/react/24/solid";
 import React from "react";
 import { skills } from "../../utils/data";
 
@@ -16,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Here are a list of my technical skills and abilities.
+            Here is a list of my technical skills and abilities.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
