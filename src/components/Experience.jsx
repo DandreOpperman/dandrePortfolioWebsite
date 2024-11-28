@@ -8,6 +8,7 @@ export default function Experience() {
           <UserCircleIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white mx-auto">
             Current Coding Experience
+            <br />
             <br className="hidden lg:inline-block" />
             Trainee Software Developer
             <br /> Northcoders: July - October 2024
