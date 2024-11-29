@@ -24,6 +24,4 @@ export default function Experience() {
           </p>
         </div>
       </div>
-    </section>
-  );
-}
+   

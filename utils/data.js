@@ -67,5 +67,4 @@ export const skills = [
   "Back-end: SQL, Postres (PSQL), Express, Restful APIs, Middleware, Error Handlers, Continuous Integrations (CI) and Continuous Delivery (CD)",
   "Front-end: HTML, CSS and React.js.",
   "Hosting: Render, Supabase and Netlify.",
-  "Others: Paired Programming, Technical Communication, Agile & SCRUM Methodologies, Object & Functional Oriented Programming, Recursion, Higher-Order & Factory Functions and Closure.",
-];
+  "Others: Paired Programming, Technical Communication, Agile & SCRUM Methodologies, Object & Functional Oriented
