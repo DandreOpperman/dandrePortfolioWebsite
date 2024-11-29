@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This project is a social news aggregation, web content rating, and discussion website. It allows users to view articles, read comments, vote on articles and post new comments. This project used the following skills and technologies: JavaScript, React.js, React Routers, State, HTML, CSS, Axios, Error-Handling, Vite, Conditional Rendering, Hosting, Responsive Design ",
     image: "https://i.ibb.co/TMvmZgC/NC-News.png",
-    link: "https://reedbarger.com",
+    link: "https://nc-news-dandreopperman.netlify.app/",
   },
   {
     title: "Smart money API",
