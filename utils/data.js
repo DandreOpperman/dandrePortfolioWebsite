@@ -62,9 +62,10 @@ export const projects = [
 // ];
 
 export const skills = [
-  "Languages: JavaScript (Node.js) and Browsers as Environments.",
+  "Languages: JavaScript (Node.js), Flutter and Browsers as Environments.",
   "Testing: Test-Driven Development (TDD), Jest and Supertest.",
   "Back-end: SQL, Postres (PSQL), Express, Restful APIs, Middleware, Error Handlers, Continuous Integrations (CI) and Continuous Delivery (CD)",
-  "Front-end: HTML, CSS and React.js.",
+  "Front-end: HTML, CSS, Tailwind CSS (this website) and React.js.",
   "Hosting: Render, Supabase and Netlify.",
-  "Others: Paired Programming, Technical Communication, Agile & SCRUM Methodologies, Object & Functional Oriented
+  "Others: Paired Programming, Technical Communication, Agile & SCRUM Methodologies, Object & Functional Oriented Programming, Recursion, Higher-Order & Factory Functions and Closure.",
+];
