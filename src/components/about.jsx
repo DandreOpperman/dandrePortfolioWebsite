@@ -11,11 +11,11 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             I am a hardworking, adaptable, and creative individual with a
             passion for continuous professional growth, eager to launch my
-            career in software development. Transitioning from healthcare to
+            career in software development. Transitioning from healthcare toß
             tech, I recently completed a rigorous software development bootcamp,
-            which not only deepened my technical expertise but also fueled my
-            drive to create innovative solutions that solve real-world
-            challenges.
+            which not only taught me the fundamentals of full stack web
+            development but also fueled my drive to create innovative solutions
+            that solve real-world challenges.
             <br />
             <br />
             Having worked full time whilst studying my A-Levels, including
