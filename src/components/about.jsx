@@ -9,20 +9,22 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a highly enthusiastic, energetic and creative individual, with
-            a passion for learning looking to kick start my career in software
-            development. Recently, I made the change from healthcare to tech,
-            completing a software development bootcamp. Learning the
-            fundamentals of full stack web development has only increased my
-            passion for technology.
+            I am a hardworking, adaptable, and creative individual with a
+            passion for continuous professional growth, eager to launch my
+            career in software development. Transitioning from healthcare to
+            tech, I recently completed a rigorous software development bootcamp,
+            which not only deepened my technical expertise but also fueled my
+            drive to create innovative solutions that solve real-world
+            challenges.
             <br />
             <br />
             Having worked full time whilst studying my A-Levels, including
-            working abroad for years, and months of triple 12-hour night shifts,
-            I can say confidently that I enjoy working hard and studying hard.
-            If you are looking to hire someone who not only works hard, thrives
-            under pressure, and is highly adaptable but also has exceptional
-            interpersonal skills, I believe I would be an ideal candidate.
+            working abroad for years, and months of triple 12-hour night shifts
+            at the hospital, I can say confidently that I enjoy working hard and
+            studying hard. If you are looking to hire someone who not only works
+            hard, thrives under pressure, and is highly adaptable but also has
+            exceptional interpersonal skills, I believe I would be an ideal
+            candidate.
           </p>
           <div className="flex justify-center">
             <a
